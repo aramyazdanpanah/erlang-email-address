@@ -9,7 +9,7 @@ add these lines to your rebar.config:
     { 
       deps, [
        { email_address, ".*", 
-	       { git, "git://github.com/mswimmer/erlang-email-address.git", "master"}}
+	       { git, "git://github.com/aramyazdanpanah/erlang-email-address.git", "master"}}
 	    ]
     }.
 
